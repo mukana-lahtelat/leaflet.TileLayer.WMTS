@@ -1,0 +1,19 @@
+{
+  "name": "leaflet.tilelayer.wmts",
+  "version": "1.0.0",
+  "description": "Leaflet WMTS tilelayer plugin with typings",
+  "main": "leaflet-tilelayer-wmts-src.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mukana-lahtelat/leaflet.TileLayer.WMTS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mukana-lahtelat/leaflet.TileLayer.WMTS/issues"
+  },
+  "homepage": "https://github.com/mukana-lahtelat/leaflet.TileLayer.WMTS#readme"
+}
